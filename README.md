@@ -5,7 +5,7 @@
 将本项目直接copy到android项目中的externel目录下，然后在安卓项目根目录下<br>
 source build/envsetup.sh <br>
 lunch xxx <br>
-再cd externel/本项目目录 <br>
+再cd externel/本项目目录/bluez <br>
 最后再mm一下即可。
 ## 注
 移植所用的原始tar包在origin_tar目录下，诸位可以根据自己的情况对其进行个性化移植
